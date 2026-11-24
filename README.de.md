@@ -21,6 +21,26 @@
 
 ---
 
+## 📖 Über GLX FTP-Seite
+
+### Deine WordPress-Seite als Download-Server für Software
+
+GLX FTP-Seite macht aus einer WordPress-Seite einen Download-Server für Software. Besucher sehen Ordner, Namen, Größen und Datum auf einen Blick, so wie im Wurzelverzeichnis eines FTP-Servers, und laden sich die passende Fassung deiner Programme herunter. Deine Mediathek bleibt dabei unberührt.
+
+### Dateien verwalten wie im Explorer
+
+Ein Ordnerbaum mit Dateiliste und Kontextmenü: Link kopieren, Lizenzpfad kopieren, umbenennen, verschieben, kopieren und löschen. Ganze Ordner verschiebst, kopierst und führst du zusammen, ein Konfliktfenster wie bei Windows fragt nach Überschreiben, beide behalten oder Abbrechen. Sehr große Setups gehen in Stücken hoch und laufen nach einem Abbruch weiter.
+
+### Gesperrte Ordner und verkaufte Downloads
+
+Gesperrte Ordner blockieren direkte Links. Käufer bekommen persönliche, unterschriebene Links mit Ablaufdatum, zusammen mit GLX-Lizenz automatisch, sobald die Zahlung eingegangen ist. Du bestimmst, wer in einen Ordner darf: Verwalter, angemeldete Benutzer oder ausgewählte Rollen und Benutzer.
+
+### Versionen, Statistik und automatischer Upload
+
+Versionsnummern liest das Plugin aus version.json oder Was-ist-neu.txt, auch für DMG, PKG und APK, so bieten deine Programme Updates selbst an. Jede Datei hat einen Download-Zähler, und über eine Upload-Schnittstelle mit Schlüssel liefert GLX Auto-Upload neue Versionen automatisch. Keine externen Dienste.
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Download-Server in WordPress:** Ordnerbaum und Dateiliste mit Kontextmenü: Link kopieren, Lizenzpfad ändern, umbenennen, verschieben, kopieren, löschen.

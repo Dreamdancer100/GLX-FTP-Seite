@@ -21,6 +21,26 @@
 
 ---
 
+## 📖 About GLX FTP-Seite
+
+### Your WordPress site as a software download server
+
+GLX FTP-Seite turns a WordPress site into a download server for software. Visitors see folders, names, sizes and dates at a glance, just like the root directory of an FTP server, and download the right version of your programs. Your media library stays untouched.
+
+### Manage files like in Explorer
+
+A folder tree with file list and context menu: copy link, copy licence path, rename, move, copy and delete. Move, copy and merge whole folders and decide in a Windows-like conflict dialog whether to overwrite, keep both or cancel. Very large setups are uploaded in chunks and resume after an interruption.
+
+### Locked folders and sold downloads
+
+Locked folders block direct links. Buyers get personal, signed links that expire, created automatically together with GLX License as soon as payment has arrived. You decide who may enter a folder: admins, logged-in users or selected roles and users.
+
+### Versions, statistics and automatic uploads
+
+Version numbers are read from version.json or Was-ist-neu.txt, also for DMG, PKG and APK files, so your programs can offer updates themselves. Every file has a download counter, and an upload interface with key lets GLX Auto-Upload deliver new versions automatically. No external services.
+
+---
+
 ## ✨ Features
 
 - 🚀 **Download server in WordPress:** Folder tree and file list with context menu: copy link, licence path, rename, move, copy, delete.
