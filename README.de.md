@@ -41,6 +41,22 @@ Versionsnummern liest das Plugin aus version.json oder Was-ist-neu.txt, auch fü
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Dateiverwaltung im WordPress-Admin mit Ordnerbaum und Hochladen
+
+<p align="center"><img src="screenshots/01-files.jpg" alt="Dateiverwaltung im WordPress-Admin mit Ordnerbaum und Hochladen" width="850"></p>
+
+### 2️⃣ Ordnerfarben je Ebene und für gleichnamige Ordner
+
+<p align="center"><img src="screenshots/02-folder-colours.jpg" alt="Ordnerfarben je Ebene und für gleichnamige Ordner" width="850"></p>
+
+### 3️⃣ Eingebaute Hilfe mit ersten Schritten
+
+<p align="center"><img src="screenshots/03-help.jpg" alt="Eingebaute Hilfe mit ersten Schritten" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Download-Server in WordPress:** Ordnerbaum und Dateiliste mit Kontextmenü: Link kopieren, Lizenzpfad ändern, umbenennen, verschieben, kopieren, löschen.

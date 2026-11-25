@@ -41,6 +41,22 @@ Version numbers are read from version.json or Was-ist-neu.txt, also for DMG, PKG
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ File manager in the WordPress admin with folder tree and upload
+
+<p align="center"><img src="screenshots/01-files.jpg" alt="File manager in the WordPress admin with folder tree and upload" width="850"></p>
+
+### 2️⃣ Folder colours per level and for folders with the same name
+
+<p align="center"><img src="screenshots/02-folder-colours.jpg" alt="Folder colours per level and for folders with the same name" width="850"></p>
+
+### 3️⃣ Built-in help with first steps
+
+<p align="center"><img src="screenshots/03-help.jpg" alt="Built-in help with first steps" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Download server in WordPress:** Folder tree and file list with context menu: copy link, licence path, rename, move, copy, delete.
